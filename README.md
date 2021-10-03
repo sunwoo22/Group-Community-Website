@@ -1,6 +1,6 @@
 # Group-Community-Website-with-SpringFramework-and-Oracle
 ### Spring Framework · Oracle 기반의 취미 모임 서비스 웹사이트 구축
-입니다.   
+입니다.    
 <br>
 <hr>
 
